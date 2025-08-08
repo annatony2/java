@@ -1,5 +1,16 @@
-
-package test4;
+/************************************************************
+ * Author       : Anna Tony
+ * Date         : 08-August-2025
+ * Description  : This program demonstrates inheritance and 
+ *                method overriding by managing details of 
+ *                different types of books - Ebooks and 
+ *                Printed Books. It stores title, author, 
+ *                price, and additional attributes such as 
+ *                file size for Ebooks and number of pages 
+ *                for Printed Books. The program displays 
+ *                complete information for each book object.
+ * Version      : 1.0
+ ************************************************************/
 
 class Book{
 	String title;
