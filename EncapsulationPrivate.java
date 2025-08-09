@@ -1,3 +1,11 @@
+/************************************************************
+ * Author       : Anna Tony
+ * Date         : 09-August-2025
+ * Description  : This program demonstrates Encapsulation in Java
+ *                using a Student class with private fields,
+ *                public getters and setters, and validation.
+ * Version      : 1.0
+ ************************************************************/
 class Student{
 	private String name;
 	private int rollNumber;
